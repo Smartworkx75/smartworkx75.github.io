@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SmartWorkX by PRo"
+title                    : #"SmartWorkX by PRo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Paul Romeijn"
