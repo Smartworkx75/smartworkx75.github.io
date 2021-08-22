@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Romeijn"
-  avatar           : /assets/images/smart-pro.jpg"
+  avatar           : "/assets/images/smart-pro.jpg"
   bio              : "Nothing for now"
   location         : "Netherlands"
   email            : github@smartworkx.net
