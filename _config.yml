@@ -136,5 +136,5 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
