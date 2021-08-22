@@ -28,6 +28,7 @@ author :
 production_url : https://smartworkx.github.io
 
 plugin: ["jekyll-sitemap"]
+plugin: ["jekyll-include-cache"] 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
