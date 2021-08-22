@@ -117,13 +117,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/smartworkx"
+      url: "https://facebook.com/smartworkx75"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/smartworkx"
 
 # Site Footer
 footer:
@@ -277,7 +277,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/_posts/"
       type: posts
     values:
       layout: single
